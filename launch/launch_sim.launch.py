@@ -104,6 +104,6 @@ def generate_launch_description():
         ros_gz_bridge,
         diff_drive_spawner,
         joint_broad_spawner,
-        sllidar,
+        #sllidar,
         #rplidar,
     ])
